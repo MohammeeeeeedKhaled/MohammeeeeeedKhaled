@@ -81,10 +81,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammeeeeeedKhaled&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammeeeeeedKhaled&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+
 
 <br clear="both">
 
