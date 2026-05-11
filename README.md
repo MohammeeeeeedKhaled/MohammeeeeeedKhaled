@@ -69,8 +69,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammeeeeeedKhaled&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<br>
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammeeeeeedKhaled&theme=tokyo-night&bg_color=1A1B27&hide_border=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammeeeeeedKhaled/MohammeeeeeedKhaled/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammeeeeeedKhaled/MohammeeeeeedKhaled/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohammeeeeeedKhaled/MohammeeeeeedKhaled/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
